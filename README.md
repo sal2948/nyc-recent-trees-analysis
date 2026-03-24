@@ -1,1 +1,1 @@
-An exploration and analysis of recently planted trees in NYC, with data drawn from the NYC Tree Work Hub and scraped from the NYC Tree Map.
+An exploration and analysis of recently planted trees in NYC, with data drawn from the [NYC Tree Work Hub](https://www.nycgovparks.org/trees/street-tree-planting/locations) and scraped from the [NYC Tree Map](https://tree-map.nycgovparks.org/). 
